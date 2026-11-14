@@ -9,6 +9,10 @@ This project analyzes e-commerce shopping activity to identify conversion bottle
 
 The analysis uses a public Google Analytics 4 sample dataset, processed with SQL in Google BigQuery and visualized in Microsoft Power BI.
 
+## Power BI Dashboard
+
+![E-commerce Conversion Funnel Dashboard](dashboard.png)
+
 ## Business Problem
 
 An e-commerce business needs to understand where shopping activity decreases most significantly between product views and completed purchases.
